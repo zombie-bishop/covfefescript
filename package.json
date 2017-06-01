@@ -1,0 +1,12 @@
+{
+  "name": "covfefescript",
+  "version": "0.1.0",
+  "description": "Despite the constant negative press covfefe",
+  "main": "main.js",
+  "author": "Casey Robbins",
+  "license": "UNLICENSED",
+  "homepage": "https://github.com/zombie-bishop",
+  "dependencies": {
+    "coffeescript": "^1.12.6"
+  }
+}
